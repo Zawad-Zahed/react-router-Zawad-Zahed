@@ -1,0 +1,8 @@
+.heading-container {
+  background-image: url(../Images/UEFA-BG-Image-field.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  color: white;
+}

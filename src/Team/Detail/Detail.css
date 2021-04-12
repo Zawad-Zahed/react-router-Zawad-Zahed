@@ -1,0 +1,23 @@
+.head-container {
+  background-image: url(../../Images/UEFA-BG-Image-field\ blur.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+}
+.top-logo {
+  margin: 4rem;
+  height: 10rem;
+  width: 12rem;
+}
+.body-container {
+  background-color: darkblue;
+  color: white;
+}
+.team-detail {
+  background-color: skyblue;
+}
+.footer-icon img {
+  height: 4rem;
+  width: 4rem;
+}
