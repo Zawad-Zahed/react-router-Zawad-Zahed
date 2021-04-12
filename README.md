@@ -69,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # react-router-Zawad-Zahed
+
+<< Project Detail >>
+Hello there!
+This is Zawad Bin Zahed.
+Here i want to share something about my project. 
+This is a team selection site, people can find there team also they can see about the team after one click. 
+It's a simple project to find a team and their detail. 
+thank you so much. 
